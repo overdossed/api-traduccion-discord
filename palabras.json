@@ -277,13 +277,184 @@
       "ejemplo": "Freedom is a fundamental right"
     },
     {
-      "palabra": "test",
-      "traduccion": "prueba",
-      "categoria": "testing",
+      "palabra": "serration",
+      "traduccion": "sierra",
+      "categoria": "warframe_mods",
+      "dificultad": "medium",
+      "alternativas": [],
+      "pista": "Mod de daño para rifles",
+      "ejemplo": "Serration increases rifle damage"
+    },
+    {
+      "palabra": "vitality",
+      "traduccion": "vitalidad",
+      "categoria": "warframe_mods",
       "dificultad": "easy",
       "alternativas": [],
-      "pista": "Palabra de prueba",
-      "ejemplo": "This is a test"
+      "pista": "Mod que aumenta la salud",
+      "ejemplo": "Vitality increases health"
+    },
+    {
+      "palabra": "steel fiber",
+      "traduccion": "fibra de acero",
+      "categoria": "warframe_mods",
+      "dificultad": "medium",
+      "alternativas": ["fibra acero"],
+      "pista": "Mod que aumenta la armadura",
+      "ejemplo": "Steel Fiber increases armor"
+    },
+    {
+      "palabra": "intensify",
+      "traduccion": "intensificación",
+      "categoria": "warframe_mods",
+      "dificultad": "medium",
+      "alternativas": [],
+      "pista": "Mod que aumenta la fuerza de habilidades",
+      "ejemplo": "Intensify increases ability strength"
+    },
+    {
+      "palabra": "continuity",
+      "traduccion": "continuidad",
+      "categoria": "warframe_mods",
+      "dificultad": "medium",
+      "alternativas": [],
+      "pista": "Mod que aumenta la duración de habilidades",
+      "ejemplo": "Continuity increases ability duration"
+    },
+    {
+      "palabra": "streamline",
+      "traduccion": "aerodinamizar",
+      "categoria": "warframe_mods",
+      "dificultad": "hard",
+      "alternativas": ["optimizar"],
+      "pista": "Mod que reduce el costo de energía",
+      "ejemplo": "Streamline reduces ability energy cost"
+    },
+    {
+      "palabra": "stretch",
+      "traduccion": "estirar",
+      "categoria": "warframe_mods",
+      "dificultad": "easy",
+      "alternativas": ["alcance"],
+      "pista": "Mod que aumenta el alcance de habilidades",
+      "ejemplo": "Stretch increases ability range"
+    },
+    {
+      "palabra": "redirection",
+      "traduccion": "redirección",
+      "categoria": "warframe_mods",
+      "dificultad": "medium",
+      "alternativas": [],
+      "pista": "Mod que aumenta los escudos",
+      "ejemplo": "Redirection increases shields"
+    },
+    {
+      "palabra": "flow",
+      "traduccion": "flujo",
+      "categoria": "warframe_mods",
+      "dificultad": "easy",
+      "alternativas": [],
+      "pista": "Mod que aumenta la energía máxima",
+      "ejemplo": "Flow increases maximum energy"
+    },
+    {
+      "palabra": "multishot",
+      "traduccion": "multidisparo",
+      "categoria": "warframe_mods",
+      "dificultad": "medium",
+      "alternativas": ["disparo múltiple"],
+      "pista": "Mod que dispara múltiples proyectiles",
+      "ejemplo": "Multishot fires multiple projectiles"
+    },
+    {
+      "palabra": "split chamber",
+      "traduccion": "cámara dividida",
+      "categoria": "warframe_mods",
+      "dificultad": "hard",
+      "alternativas": ["cámara partida"],
+      "pista": "Mod de multidisparo para rifles",
+      "ejemplo": "Split Chamber is a multishot mod for rifles"
+    },
+    {
+      "palabra": "barrel diffusion",
+      "traduccion": "difusión de cañón",
+      "categoria": "warframe_mods",
+      "dificultad": "hard",
+      "alternativas": ["difusión cañón"],
+      "pista": "Mod de multidisparo para pistolas",
+      "ejemplo": "Barrel Diffusion is multishot for pistols"
+    },
+    {
+      "palabra": "hell's chamber",
+      "traduccion": "cámara infernal",
+      "categoria": "warframe_mods",
+      "dificultad": "hard",
+      "alternativas": ["cámara infernal"],
+      "pista": "Mod de multidisparo para escopetas",
+      "ejemplo": "Hell's Chamber is multishot for shotguns"
+    },
+    {
+      "palabra": "point strike",
+      "traduccion": "golpe certero",
+      "categoria": "warframe_mods",
+      "dificultad": "medium",
+      "alternativas": ["punto de golpe"],
+      "pista": "Mod que aumenta la probabilidad crítica",
+      "ejemplo": "Point Strike increases critical chance"
+    },
+    {
+      "palabra": "vital sense",
+      "traduccion": "sentido vital",
+      "categoria": "warframe_mods",
+      "dificultad": "medium",
+      "alternativas": [],
+      "pista": "Mod que aumenta el multiplicador crítico",
+      "ejemplo": "Vital Sense increases critical multiplier"
+    },
+    {
+      "palabra": "fury",
+      "traduccion": "furia",
+      "categoria": "warframe_mods",
+      "dificultad": "easy",
+      "alternativas": [],
+      "pista": "Mod que aumenta la velocidad de ataque cuerpo a cuerpo",
+      "ejemplo": "Fury increases melee attack speed"
+    },
+    {
+      "palabra": "pressure point",
+      "traduccion": "punto de presión",
+      "categoria": "warframe_mods",
+      "dificultad": "medium",
+      "alternativas": [],
+      "pista": "Mod de daño cuerpo a cuerpo",
+      "ejemplo": "Pressure Point increases melee damage"
+    },
+    {
+      "palabra": "hornet strike",
+      "traduccion": "golpe de avispón",
+      "categoria": "warframe_mods",
+      "dificultad": "hard",
+      "alternativas": ["ataque avispón"],
+      "pista": "Mod de daño para pistolas",
+      "ejemplo": "Hornet Strike increases pistol damage"
+    },
+    {
+      "palabra": "point blank",
+      "traduccion": "a quemarropa",
+      "categoria": "warframe_mods",
+      "dificultad": "medium",
+      "alternativas": ["quemarropa"],
+      "pista": "Mod de daño para escopetas",
+      "ejemplo": "Point Blank increases shotgun damage"
+    },
+    {
+      "palabra": "primed flow",
+      "traduccion": "flujo prime",
+      "categoria": "warframe_mods",
+      "dificultad": "hard",
+      "alternativas": ["flujo prime"],
+      "pista": "Versión mejorada del mod Flow",
+      "ejemplo": "Primed Flow is an upgraded version of Flow"
     }
   ]
 }
