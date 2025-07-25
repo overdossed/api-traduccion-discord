@@ -1,0 +1,289 @@
+{
+  "palabras": [
+    {
+      "palabra": "cat",
+      "traduccion": "gato",
+      "categoria": "animals",
+      "dificultad": "easy",
+      "alternativas": [
+        "felino"
+      ],
+      "pista": "Animal doméstico que maúlla",
+      "ejemplo": "The cat is sleeping on the sofa"
+    },
+    {
+      "palabra": "dog",
+      "traduccion": "perro",
+      "categoria": "animals",
+      "dificultad": "easy",
+      "alternativas": [
+        "can"
+      ],
+      "pista": "Mejor amigo del hombre",
+      "ejemplo": "My dog loves to play fetch"
+    },
+    {
+      "palabra": "bird",
+      "traduccion": "pájaro",
+      "categoria": "animals",
+      "dificultad": "easy",
+      "alternativas": [
+        "ave"
+      ],
+      "pista": "Animal que vuela y tiene plumas",
+      "ejemplo": "The bird is singing in the tree"
+    },
+    {
+      "palabra": "elephant",
+      "traduccion": "elefante",
+      "categoria": "animals",
+      "dificultad": "medium",
+      "alternativas": [],
+      "pista": "Animal grande con trompa",
+      "ejemplo": "The elephant has big ears"
+    },
+    {
+      "palabra": "butterfly",
+      "traduccion": "mariposa",
+      "categoria": "animals",
+      "dificultad": "medium",
+      "alternativas": [],
+      "pista": "Insecto colorido que vuela",
+      "ejemplo": "A beautiful butterfly landed on the flower"
+    },
+    {
+      "palabra": "apple",
+      "traduccion": "manzana",
+      "categoria": "food",
+      "dificultad": "easy",
+      "alternativas": [],
+      "pista": "Fruta roja o verde",
+      "ejemplo": "An apple a day keeps the doctor away"
+    },
+    {
+      "palabra": "bread",
+      "traduccion": "pan",
+      "categoria": "food",
+      "dificultad": "easy",
+      "alternativas": [],
+      "pista": "Alimento básico hecho de harina",
+      "ejemplo": "I eat bread for breakfast"
+    },
+    {
+      "palabra": "cheese",
+      "traduccion": "queso",
+      "categoria": "food",
+      "dificultad": "easy",
+      "alternativas": [],
+      "pista": "Producto lácteo amarillo",
+      "ejemplo": "This cheese tastes delicious"
+    },
+    {
+      "palabra": "pizza",
+      "traduccion": "pizza",
+      "categoria": "food",
+      "dificultad": "easy",
+      "alternativas": [],
+      "pista": "Comida italiana redonda",
+      "ejemplo": "Let's order pizza for dinner"
+    },
+    {
+      "palabra": "chocolate",
+      "traduccion": "chocolate",
+      "categoria": "food",
+      "dificultad": "medium",
+      "alternativas": [],
+      "pista": "Dulce marrón que todos aman",
+      "ejemplo": "Dark chocolate is good for health"
+    },
+    {
+      "palabra": "red",
+      "traduccion": "rojo",
+      "categoria": "colors",
+      "dificultad": "easy",
+      "alternativas": [
+        "colorado"
+      ],
+      "pista": "Color del fuego",
+      "ejemplo": "She wears a red dress"
+    },
+    {
+      "palabra": "blue",
+      "traduccion": "azul",
+      "categoria": "colors",
+      "dificultad": "easy",
+      "alternativas": [],
+      "pista": "Color del cielo",
+      "ejemplo": "The ocean is deep blue"
+    },
+    {
+      "palabra": "green",
+      "traduccion": "verde",
+      "categoria": "colors",
+      "dificultad": "easy",
+      "alternativas": [],
+      "pista": "Color de las plantas",
+      "ejemplo": "Grass is green in spring"
+    },
+    {
+      "palabra": "purple",
+      "traduccion": "morado",
+      "categoria": "colors",
+      "dificultad": "medium",
+      "alternativas": [
+        "púrpura",
+        "violeta"
+      ],
+      "pista": "Mezcla de rojo y azul",
+      "ejemplo": "She loves purple flowers"
+    },
+    {
+      "palabra": "orange",
+      "traduccion": "naranja",
+      "categoria": "colors",
+      "dificultad": "easy",
+      "alternativas": [
+        "anaranjado"
+      ],
+      "pista": "Color de una fruta cítrica",
+      "ejemplo": "The sunset is orange and pink"
+    },
+    {
+      "palabra": "house",
+      "traduccion": "casa",
+      "categoria": "objects",
+      "dificultad": "easy",
+      "alternativas": [
+        "hogar"
+      ],
+      "pista": "Lugar donde vives",
+      "ejemplo": "My house has three bedrooms"
+    },
+    {
+      "palabra": "car",
+      "traduccion": "coche",
+      "categoria": "objects",
+      "dificultad": "easy",
+      "alternativas": [
+        "auto",
+        "carro"
+      ],
+      "pista": "Vehículo de cuatro ruedas",
+      "ejemplo": "I drive my car to work"
+    },
+    {
+      "palabra": "phone",
+      "traduccion": "teléfono",
+      "categoria": "objects",
+      "dificultad": "easy",
+      "alternativas": [],
+      "pista": "Dispositivo para hablar con otros",
+      "ejemplo": "My phone is ringing"
+    },
+    {
+      "palabra": "computer",
+      "traduccion": "computadora",
+      "categoria": "objects",
+      "dificultad": "medium",
+      "alternativas": [
+        "ordenador"
+      ],
+      "pista": "Máquina para trabajar y jugar",
+      "ejemplo": "I use my computer for work"
+    },
+    {
+      "palabra": "book",
+      "traduccion": "libro",
+      "categoria": "objects",
+      "dificultad": "easy",
+      "alternativas": [],
+      "pista": "Objeto para leer",
+      "ejemplo": "This book is very interesting"
+    },
+    {
+      "palabra": "run",
+      "traduccion": "correr",
+      "categoria": "actions",
+      "dificultad": "easy",
+      "alternativas": [],
+      "pista": "Moverse rápido con las piernas",
+      "ejemplo": "I run every morning"
+    },
+    {
+      "palabra": "walk",
+      "traduccion": "caminar",
+      "categoria": "actions",
+      "dificultad": "easy",
+      "alternativas": [
+        "andar"
+      ],
+      "pista": "Moverse despacio con los pies",
+      "ejemplo": "Let's walk to the park"
+    },
+    {
+      "palabra": "eat",
+      "traduccion": "comer",
+      "categoria": "actions",
+      "dificultad": "easy",
+      "alternativas": [],
+      "pista": "Ingerir alimentos",
+      "ejemplo": "I eat breakfast at 8 AM"
+    },
+    {
+      "palabra": "sleep",
+      "traduccion": "dormir",
+      "categoria": "actions",
+      "dificultad": "easy",
+      "alternativas": [],
+      "pista": "Descansar por la noche",
+      "ejemplo": "I sleep eight hours every night"
+    },
+    {
+      "palabra": "dance",
+      "traduccion": "bailar",
+      "categoria": "actions",
+      "dificultad": "medium",
+      "alternativas": [],
+      "pista": "Moverse al ritmo de la música",
+      "ejemplo": "She loves to dance salsa"
+    },
+    {
+      "palabra": "serendipity",
+      "traduccion": "casualidad afortunada",
+      "categoria": "concepts",
+      "dificultad": "hard",
+      "alternativas": [
+        "suerte inesperada"
+      ],
+      "pista": "Encontrar algo bueno sin buscarlo",
+      "ejemplo": "Meeting you was pure serendipity"
+    },
+    {
+      "palabra": "wisdom",
+      "traduccion": "sabiduría",
+      "categoria": "concepts",
+      "dificultad": "hard",
+      "alternativas": [],
+      "pista": "Conocimiento profundo y experiencia",
+      "ejemplo": "Age brings wisdom"
+    },
+    {
+      "palabra": "freedom",
+      "traduccion": "libertad",
+      "categoria": "concepts",
+      "dificultad": "medium",
+      "alternativas": [],
+      "pista": "No tener restricciones",
+      "ejemplo": "Freedom is a fundamental right"
+    },
+    {
+      "palabra": "test",
+      "traduccion": "prueba",
+      "categoria": "testing",
+      "dificultad": "easy",
+      "alternativas": [],
+      "pista": "Palabra de prueba",
+      "ejemplo": "This is a test"
+    }
+  ]
+}
